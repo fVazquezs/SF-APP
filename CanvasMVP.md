@@ -21,11 +21,12 @@ Um sistema mobile para gerenciar o dia da avaliação da feira de ciências.
 * Gerar ranqueamento baseado no selecionado pelo administrador ([1,2,3], [Excelentes, Medios, Ruins])
 
 ## Resultado Esperado: 
-* Gerenciar a avaliação da feira de ciências com sucesso
-* Poupar tempo na geração dos resultados
-* Facilitar para o avaliador, informações sobre o projeto que irá avaliar
+* Poupar tempo para gerenciadores na geração de resultado
+* Facilitar para os avaliadores, informações sobre o que fazer no dia da avaliação
+* Diminuir a utilização de papel e tarefas manuais
 
 ## Métricas de avaliação:
 * Tempo total de avaliação e geração de resultado
 * Se a utilização do app facilitou a organização dos avaliadores sem ter que utilizar papel
+* Entrevista com os usuários
 
