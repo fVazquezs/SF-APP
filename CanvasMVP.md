@@ -30,3 +30,5 @@ Um sistema mobile para gerenciar o dia da avaliação da feira de ciências.
 * Se a utilização do app facilitou a organização dos avaliadores sem ter que utilizar papel
 * Entrevista com os usuários
 
+## Jornadas:
+* O Avaliador que recebeu um convite para uma feira de ciências no Sábado, não tem muito conhecimento sobre o local e as pessoas que estão organizando o evento. Ao receber o convite por email, irá ser direcionado para o download do app de avaliação que irá utilizar no dia, onde irá criar uma conta com o mesmo email que foi enviado o convite. Ao chegar no local do evento no dia, irá logar no app e ver os grupos que deve avaliar, apartir dai, irá escolher a ordem de avaliação que deseja, vai até o projeto que vai avaliar e seleciona o projeto dentro do app, e começa a colocar as notas para cada critério. Ao terminar todos os projetos que tinha para avaliar, não será necessário falar com ninguém da organização.
